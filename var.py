@@ -1,4 +1,3 @@
-# https://www.interviewqs.com/blog/value-at-risk
 
 ## Calculate periodic returns of the stocks in the portfolio
 # import pandas as pd
